@@ -3,8 +3,6 @@
 <br />
 <div align="center">
 
-<img src="readme-images/logo.png" alt="Autofix Repairing Website Logo" width="100" style="border-radius: 12px;"/>
-
 ## 🔧 Autofix Repairing Website  
 A modern and fully responsive **Autofix Repairing Website** built using HTML, CSS, and JavaScript.  
 Designed for auto repair shops, mechanics, and service providers to showcase their services with a professional touch.
