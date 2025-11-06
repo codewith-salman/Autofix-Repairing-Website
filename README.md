@@ -4,7 +4,7 @@
 <div align="center">
 
 ## 🔧 Autofix Repairing Website  
-A modern and fully responsive **Autofix Repairing Website** built using HTML, CSS, and JavaScript.  
+A modern and fully responsive **Autofix Repairing Website** built using HTML, CSS, and JS.  
 Designed for auto repair shops, mechanics, and service providers to showcase their services with a professional touch.
 
 </div>
@@ -20,7 +20,6 @@ Designed for auto repair shops, mechanics, and service providers to showcase the
 It includes sections for **services, about, testimonials, and contact**, all wrapped in a visually appealing, easy-to-navigate layout.  
 Perfect for **car repair centers, bike mechanics, and automotive workshops** wanting to build trust with potential customers.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -32,7 +31,6 @@ Perfect for **car repair centers, bike mechanics, and automotive workshops** wan
 - Clean typography and professional layout  
 - Easy to customize and edit  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -42,7 +40,6 @@ Perfect for **car repair centers, bike mechanics, and automotive workshops** wan
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
