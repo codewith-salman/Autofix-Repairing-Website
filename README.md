@@ -56,7 +56,6 @@ The **Autofix Repairing Website** is a clean and professional automotive service
 The layout focuses on:
 - Professional automotive service branding  
 - Clear service presentation and business information  
-- Smooth hover effects and modern UI interactions  
 - Responsive design across all devices  
 
 This project demonstrates your ability to build **business-focused service websites** that communicate professionalism, reliability, and user-friendly navigation while maintaining a polished visual experience.
