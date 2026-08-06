@@ -75,8 +75,7 @@ Ideal for:
 - Fully responsive automotive website layout  
 - Professional and modern service-based UI  
 - Hero section with business highlights  
-- Services, About, Testimonials, and Contact sections  
-- Smooth hover animations and transitions  
+- Services, About, Testimonials, and Contact sections   
 - Clean typography and structured layouts  
 
 ---
