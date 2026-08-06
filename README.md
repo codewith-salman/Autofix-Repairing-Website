@@ -9,6 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/autofix-repairing-website?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://autofix-repairing-website.vercel.app/)
+
 [![GitHub Follow](https://img.shields.io/github/followers/codewith-salman?style=social)](https://github.com/codewith-salman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
@@ -67,8 +68,6 @@ Ideal for:
 - Vehicle maintenance businesses  
 - Responsive business website practice  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -80,8 +79,6 @@ Ideal for:
 - Smooth hover animations and transitions  
 - Clean typography and structured layouts  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -91,8 +88,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
